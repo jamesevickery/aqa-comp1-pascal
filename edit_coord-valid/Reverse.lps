@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Reverse.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="90"/>
+        <CursorPos X="25" Y="102"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="Reverse.lpr"/>
+        <Caret Line="45" Column="33" TopLine="33"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Reverse.lpr"/>
+        <Caret Line="103" Column="35" TopLine="84"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Reverse.lpr"/>
+        <Caret Line="102" Column="35" TopLine="90"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
